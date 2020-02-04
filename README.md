@@ -6,5 +6,5 @@ WordCloud-Custom-Background-Matplotlib
 
 result:
 
-<img src="wine.png" width="720" height="900">
 <img src="wine-1.png" width="720" height="900">
+<img src="wine.png" width="720" height="900">
